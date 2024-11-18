@@ -13,4 +13,4 @@
 1. Could I use the BLG model for other proteins? <br> well it is not recommended cos physical-chemical features (atom coordinates) were based on a BLG structure file.
 2. Do I need a Google Colab subscription?<br>Anubis is lightweight and a normal CPU runtime is sufficient (with no subscriptions).
 3. Do I need a Google account? <br> May make life easier. Colab can also access files in your Google drive (with permission).
-4. Help! Still unsure how to use Anubis. <br> Open an issue or get in touch with me (preprint link)
+4. Help! Still unsure how to use Anubis. <br> Open an issue or get in touch with me ([preprint](https://www.biorxiv.org/content/10.1101/2024.11.15.623824v1))
